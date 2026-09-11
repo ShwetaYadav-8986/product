@@ -1,2 +1,2 @@
-Indian Market Analysis and Strategic InvestmentL:
+Indian Market Analysis and Strategic Investment:
 This project provides an in-depth analysis of the Indian financial markets focusing on macroeconomic trends, sector performance, and strategic company positioning. It includes a detailed examination of market volatility, defensive and growth sector shifts and investment strategies using frameworks like the BCG Matrix. Key analyses cover companies like ITC, Adani Green Energy and Zomato offering insights into their market positioning and growth potential. This project also showcases a strong understanding of market trends, investment strategies and data-driven decision-making.
